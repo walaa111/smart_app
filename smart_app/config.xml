@@ -15,7 +15,6 @@ smart app
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
-    <allow-navigation href="*" />
     <platform name="android">
         <allow-intent href="market:*" />
         <icon density="ldpi" src="res/android/icon.png" />
