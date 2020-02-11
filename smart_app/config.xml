@@ -35,7 +35,5 @@ smart app
     <plugin name="cordova-plugin-inappbrowser" spec="^3.0.0" />
     <plugin name="cordova-admob" spec="^5.1.0" />
     <plugin name="cordova-plugin-cleartext" spec="^1.0.0" />
-        <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application">
-        <application android:usesCleartextTraffic="true" />
-    </edit-config>
+    
 </widget>
