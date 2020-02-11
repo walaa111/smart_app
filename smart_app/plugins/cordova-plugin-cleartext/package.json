@@ -1,0 +1,89 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-cleartext",
+        "scope": null,
+        "escapedName": "cordova-plugin-cleartext",
+        "name": "cordova-plugin-cleartext",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\test_github\\smart_app\\smart_app\\smart_app"
+    ]
+  ],
+  "_from": "cordova-plugin-cleartext@latest",
+  "_hasShrinkwrap": false,
+  "_id": "cordova-plugin-cleartext@1.0.0",
+  "_inCache": true,
+  "_location": "/cordova-plugin-cleartext",
+  "_nodeVersion": "8.14.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-cleartext_1.0.0_1553825076754_0.9445378603461645"
+  },
+  "_npmUser": {
+    "name": "jeonie",
+    "email": "fursea@gmail.com"
+  },
+  "_npmVersion": "6.4.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-cleartext",
+    "scope": null,
+    "escapedName": "cordova-plugin-cleartext",
+    "name": "cordova-plugin-cleartext",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-cleartext/-/cordova-plugin-cleartext-1.0.0.tgz",
+  "_shasum": "a324f63e94b7dd2c6f940acab42b29c4a38355e9",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-cleartext",
+  "_where": "D:\\test_github\\smart_app\\smart_app\\smart_app",
+  "author": {
+    "name": "JiaWei"
+  },
+  "cordova": {
+    "id": "cordova-plugin-cleartext",
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {},
+  "description": "",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-qkrKshxZIOiwFxf9kRDOIqkVgl82172NeD0EMjEjwLwDdCqQ+18B7cn1QW8yg6JmHeDtyvLH7AW8kC8EuESXdw==",
+    "shasum": "a324f63e94b7dd2c6f940acab42b29c4a38355e9",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-cleartext/-/cordova-plugin-cleartext-1.0.0.tgz",
+    "fileCount": 4,
+    "unpackedSize": 2744,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcnX01CRA9TVsSAnZWagAAJzkQAJEm20tgBexP73xapTar\nzjm6QLo+x03Us44+CipKd7P20R3WFikM1A4p74Q0/0m826N6UGdq+3+f+jiJ\n7dr6QgW4N8u8cOObsgQtVs5ycFsapMi0bjFwD9wNnkBDriX1o4kIVWtBtca4\nRYp+w72G/nXTHtevM0llsTP3pvJd68ClbZ7z6nnSSLcBYBeaUGhFlHeh8mMa\nKkkoe0Nm5T7pmbXg13HL/eoJX4lW7oDzodvivZjWZPejyxlKC76S7fZhdN3I\nH32XjIINS8cyaB/o2c52ehYB4aZGJ+DwKMomj4jtJ0otxwcX/mIASy6f9Wgz\n17AaSy+jv63NulW7CxdOI+6ueId96UVAqETUeasM/Wxn0Y5gxNk5+a3E5bsa\nMIJO8cTYZvV0tHbkG7K/l9A99pg5GJW4DdozjcMzLc8MPnfIIPvj+Wv3kbv5\nM4kzff8Q+jbjK6SqXpc+igGMmTQwI5w5ihhzR6AQR02dWdZFcj0kPtkN/b5R\nF6pcmlSS6rOoxjFXckmxbUZelU6kXUmXfM7cRvPgqWidYozfXnAqbEU1vJZZ\nf8QqORwmV9FXpsDu+3EjLORiY+YsapUDWAfrP0VeSSTDwXnWglQxGGqDUmGE\nB7D0CZOhVUJLKRS12uLTQ8P2Ji1IvR6Wm2TTWAFQMMhpra2gLxaN9GwMQMLF\ncQSB\r\n=H8ox\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "keywords": [
+    "cleartext",
+    "usesCleartextTraffic",
+    "android9",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "Apache 2.0 License",
+  "maintainers": [
+    {
+      "name": "jeonie",
+      "email": "fursea@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-cleartext",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "version": "1.0.0"
+}

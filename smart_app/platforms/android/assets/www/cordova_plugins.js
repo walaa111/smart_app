@@ -25,6 +25,14 @@ module.exports = [
       "window.admob",
       "window.tappx"
     ]
+  },
+  {
+    "id": "cordova-plugin-cleartext.CordovaPluginsCleartext",
+    "file": "plugins/cordova-plugin-cleartext/www/CordovaPluginsCleartext.js",
+    "pluginId": "cordova-plugin-cleartext",
+    "clobbers": [
+      "cordova.plugins.CordovaPluginsCleartext"
+    ]
   }
 ];
 module.exports.metadata = 
@@ -34,7 +42,8 @@ module.exports.metadata =
   "cordova-plugin-inappbrowser": "3.0.0",
   "cordova-connectivity-monitor": "1.2.2",
   "cordova-play-services-version-adapter": "1.0.2",
-  "cordova-admob": "5.1.0"
+  "cordova-admob": "5.1.0",
+  "cordova-plugin-cleartext": "1.0.0"
 };
 // BOTTOM OF METADATA
 });
