@@ -67,13 +67,13 @@ var app = {
 
         var inAppBrowserbRef = cordova.InAppBrowser.open('https://electrostar.ovplatform.tk', '_self', 'location=no,toolbar=no');
 
-        inAppBrowserbRef = cordova.InAppBrowser.open('https://matthew.realdeal.com.eg/SSmart4/', '_self', 'location=no,toolbar=no,zoom=no');
+        inAppBrowserbRef = cordova.InAppBrowser.open('https://matthew.realdeal.com.eg/SmartAppliance/en/', '_self', 'location=no,toolbar=no,zoom=no');
 
         //admob
      // Set AdMobAds options:
       admob.setOptions({
-        publisherId:           "ca-app-pub-7251676025279948/8792017912",  // Required
-        interstitialAdId:      "ca-app-pub-7251676025279948/2226609565",  // Optional
+        publisherId:           "ca-app-pub-7251676025279948/3093606661",  // Required
+        interstitialAdId:      "ca-app-pub-7251676025279948/8150669834",  // Optional
         autoShowBanner:        true,                                      // Optional
         autoShowRInterstitial: false,                                     // Optional
         autoShowRewarded:      false,                                     // Optional
