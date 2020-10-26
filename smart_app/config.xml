@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.realdealagency.smartappmobile" version="1.3.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.realdealagency.smartappmobile" version="1.4.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Smart Appliance</name>
     <description>
 Smart Appliance
@@ -29,7 +29,7 @@ Smart Appliance
         <allow-intent href="itms-apps:*" />
     </platform>
     <preference name="android-minSdkVersion" value="14" />
-    <preference name="android-targetSdkVersion" value="28" />
+    <preference name="android-targetSdkVersion" value="29" />
     <engine name="android" spec="^6.3.0" />
     <plugin name="cordova-plugin-whitelist" spec="^1.3.3" />
     <plugin name="cordova-plugin-inappbrowser" spec="^3.0.0" />
